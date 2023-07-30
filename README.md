@@ -10,3 +10,13 @@ Welcome to the Diamond Price Prediction project! This project aims to predict th
 The Diamond Price Prediction project is designed to help users estimate the price of diamonds by leveraging machine learning techniques. It utilizes a dataset containing information about various diamonds, such as carat weight, cut quality, color, clarity, and more. By training a predictive model on this dataset, we can generate accurate price predictions for new diamonds based on their attributes.
 
 The project is implemented in Python and utilizes popular machine learning libraries such as scikit-learn and pandas. It follows a supervised learning approach, where the model is trained on a labeled dataset with known diamond prices. Once trained, the model can be used to predict prices for unseen diamonds.
+
+1. Clone the repository or download the source code from the GitHub repository:
+   `git clone https://github.com/romitdubey/diamond-price-prediction`
+
+2. Change your working directory to the project folder:
+   `cd diamond-price-prediction`
+3. Install the required Python dependencies using pip:
+   `pip install -r requirements.txt`
+4. Run the Flask application:
+   `python app.py`
